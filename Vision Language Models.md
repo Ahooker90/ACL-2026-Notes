@@ -11,3 +11,7 @@
     * [Theory of Space Github](https://theory-of-space.github.io)
 * [Characterizing Visual Narrative Freedom under Loose Image–Text Alignment](https://openreview.net/pdf?id=qaEqBUhaGG)
 * []()
+
+# LLM Agents
+* [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://arxiv.org/abs/2601.22027)
+    * [Git- CAR-bench](https://github.com/CAR-bench/car-bench)

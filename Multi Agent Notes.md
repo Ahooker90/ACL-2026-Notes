@@ -43,12 +43,11 @@ coordingate between agents and human-agent collaborations
 
 - Many models, never let prompts reach the model untouched and instead perform prompt enrichement.
 
-- [AceSearcher: Bootstrapping Reasoning and Search
-for LLMs via Reinforced Self-Play](https://proceedings.neurips.cc/paper_files/paper/2025/file/30b00503cffe6acf25876fb1690a7357-Paper-Conference.pdf)
+- [AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced Self-Play](https://proceedings.neurips.cc/paper_files/paper/2025/file/30b00503cffe6acf25876fb1690a7357-Paper-Conference.pdf)
     * [code](https://github.com/ritaranx/AceSearcher/)
 
-
-
-d
+# LLM Agents
+* [CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://arxiv.org/abs/2601.22027)
+    * [Git- CAR-bench](https://github.com/CAR-bench/car-bench)
 
 
